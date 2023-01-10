@@ -1,0 +1,139 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    background-image:url(../images/banner/banner2.png) ;
+   
+width: 1600px;
+height: 809px;
+left: 1600px;
+top: 0px;
+}
+
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+    
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+}
+
+.banner-description{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 472px;
+    
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    
+    text-align: right;
+    
+    }
+.banner-button{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+
+    background-color: rgb(242, 109, 60);
+    font-color: #ffffff;
+    border-radius: 5px;
+    
+}
+
+.img{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    
+}  
+
+.section{
+    position: absolute;
+width: 416px;
+height: 400px;
+left: 862px;
+top: 1178px;
+
+}
+.section-h3{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 47px;
+
+
+
+color: #151414;
+
+}
+
+/* My Plans */
+
+.my plan{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+
+
+
+
+/* Dark 01 */
+
+color: #151414;
+
+
+
+}
+.skills-container{
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+
+}
+.gradien{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
+
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+    
+}
+
+.footer{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+
+/* Dark 01 */
+
+background: #151414;
+}
